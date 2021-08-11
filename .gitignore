@@ -1,0 +1,11 @@
+*.txt
+*.html
+
+sites/*.html
+sites/*.txt
+
+temp/*.html
+temp/*.txt
+
+statistics/*.html
+statistics/*.txt
